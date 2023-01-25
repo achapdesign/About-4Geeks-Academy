@@ -39,7 +39,7 @@ basic_info:
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
     github: A_dre
     
-    Instagram: @achapdesign
+    Instagram: '@achapdesign'
 
 
     # languages you speak, levels inculde: Native, Professional
@@ -64,36 +64,27 @@ basic_info:
 # Your previous education
 education:
     - degree: diploma
+      university: Universal Technical Institute (UTI) Norwood, MA	Automotive Technology
       logo: https://s19538.pcdn.co/wp-content/uploads/2015/04/Universal-Technical-Institute-Logo.png
+      time: 2016-2017
       details: |
-        Universal Technical Institute (UTI) Norwood, MA	Automotive Technology		
-		Graduation: 01/13/17	gpa: 3.88	attendance: 98.30
+        Volvo SAFE Program- Avondale, AZ		Volvo Automotive Systems 
+        time: 2017 
+        gpa: 3.95
 
-     Volvo SAFE Program- Avondale, AZ		Volvo Automotive Systems 
-    Graduation: 05/03/17 gpa:	3.95 attendance: 99.78
+        Automotive Engines & Repair                      Fuel & Ignition Systems
+        Power & Performance IA                           Power & Performance IB
+        Drivability & Emissions                          Professional Service Writing
+        Automotive Undercar                              Climate Control
+        Power & Performance II                           Automatic Transmissions
+        Brakes                                           Electronic Fundamentals
+        Electronic Technology                            Automotive Power Trains
+        Advanced Diagnostic Systems                      Electronic Diagnostics
+        Professional Applications
+        UTI Awards: 
+          Director’s Honors List (3) - Awarded to students who receive grades of 90% or better in class or lab work for three consecutive courses without a break in attendance
+          Student of the Course (4) - Awarded to outstanding students with emphasis on lab performance, as determined by the course instructor
 
-    Automotive Engines & Repair                      Fuel & Ignition Systems
-    Power & Performance IA                           Power & Performance IB
-    Drivability & Emissions                          Professional Service Writing
-    Automotive Undercar                              Climate Control
-    Power & Performance II                           Automatic Transmissions
-    Brakes                                           Electronic Fundamentals
-    Electronic Technology                            Automotive Power Trains
-    Advanced Diagnostic Systems                      Electronic Diagnostics
-    Professional Applications
-
-  UTI Awards: 
-  Director’s Honors List (3) - Awarded to students who receive grades of 90% or better in class or lab work for three consecutive courses without a break in attendance
-  Student of the Course (4) - Awarded to outstanding students with emphasis on lab performance, as determined by the course instructor
-
-    - degree: diploma
-      university: Blue Hills Regional Technical High School
-      # optional
-      logo: https://pbs.twimg.com/profile_images/905111052173631490/nwwZGkWj_400x400.jpg
-      time: 2011 - 2015
-      details: |
-        Basic High School education but studied Automotive Repair
-        - Swim team 
 # Your previous job experiences or voluntier
 experiences:
     - role: Technician  
@@ -118,11 +109,10 @@ experiences:
           Suspension work
           Wiring diagnostics
 
-      role: Technician
+    - role: Technician
       time: 05/17-09/18
       company: Herb Chambers Volvo Cars/ Norwood, MA
-      company_logo: 
-      details: |	   					
+      details: |
           Replace suspensions and front ends
           Warranty Work
           Pre-delivery inspections and recalls
