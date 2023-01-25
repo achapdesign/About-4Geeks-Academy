@@ -1,0 +1,129 @@
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Andres
+    last_name: Chappuzeau
+    
+    # Define yourself in 4-5 words
+    motto: I like fixing things
+    
+    # focus
+    focus: working with my hands
+    
+    # You have 1 paragraph to make a great impression, summarize your career.
+    summary: |
+      I have several years in the automotive repair industry, I started in a vocational high school in the greater Boston area. Then I continued my automotive education at Universal Technical
+      Institute, and carried on to the Volvo SAFE program. once I graduated, I was hired into Volvo Cars of Norwood where I worked 1 year and a half, then my manager moved to Boston Volvo Cars
+      and he hired my there. Then to Volvo Cars Natick until the pandemic hit and my parents put me and my brother on the last flight to Portugal and we've been here ever since.
+
+      I am a highly motivated individual with a proven ability to learn quickly, create, implement, and maintain procedures both old and new in any environment. I further possess the ability 
+      to meet heavy work assignments and deadlines under strict time constraints. In addition to my strong commitment and desire to succeed in every assigned task, I am able to work independently
+      or as a team, with a unique ability to communicate effectively on all levels.
+
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/men/69.jpg
+
+    # Contact Information
+    email: achapdesign@gmail.com #optional
+    phone: 967 884 599 #optional
+    website: --- #optional
+    linkedin: achapdesign #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: A_dre
+    
+    Instagram: @achapdesign
+
+
+    # languages you speak, levels inculde: Native, Professional
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: French
+        level: basic
+
+      - idiom: English
+        level: Native
+
+    # Interests or hobies
+    interests:
+      - item: Motorsports
+
+      - item: Fitness
+
+      - item: Driving winding back roads
+
+# Your previous education
+education:
+    - degree: diploma
+      logo: https://s19538.pcdn.co/wp-content/uploads/2015/04/Universal-Technical-Institute-Logo.png
+      details: |
+        Universal Technical Institute (UTI) Norwood, MA	Automotive Technology		
+		Graduation: 01/13/17	gpa: 3.88	attendance: 98.30
+
+     Volvo SAFE Program- Avondale, AZ		Volvo Automotive Systems 
+    Graduation: 05/03/17 gpa:	3.95 attendance: 99.78
+
+    Automotive Engines & Repair                      Fuel & Ignition Systems
+    Power & Performance IA                           Power & Performance IB
+    Drivability & Emissions                          Professional Service Writing
+    Automotive Undercar                              Climate Control
+    Power & Performance II                           Automatic Transmissions
+    Brakes                                           Electronic Fundamentals
+    Electronic Technology                            Automotive Power Trains
+    Advanced Diagnostic Systems                      Electronic Diagnostics
+    Professional Applications
+
+  UTI Awards: 
+  Director’s Honors List (3) - Awarded to students who receive grades of 90% or better in class or lab work for three consecutive courses without a break in attendance
+  Student of the Course (4) - Awarded to outstanding students with emphasis on lab performance, as determined by the course instructor
+
+    - degree: diploma
+      university: Blue Hills Regional Technical High School
+      # optional
+      logo: https://pbs.twimg.com/profile_images/905111052173631490/nwwZGkWj_400x400.jpg
+      time: 2011 - 2015
+      details: |
+        Basic High School education but studied Automotive Repair
+        - Swim team 
+# Your previous job experiences or voluntier
+experiences:
+    - role: Technician  
+      time: 10/19-03/20
+      company: Bernardi Volvo of Natick/ Natick, MA
+      # optional
+      company_logo: 
+      details: | 
+          Warranty hybrid repair
+          Warranty engine repair and replacement
+          Wiring diagnostics 
+
+    - role: Technician	
+      time: 09/18-07/19
+      company: Boston Village Volvo/ Allston, MA
+      # optional
+      company_logo: 
+      details: |
+          Warranty maintenance work
+          Repair, replace, mount and balance tires
+          Tow-In vehicles
+          Suspension work
+          Wiring diagnostics
+
+      role: Technician
+      time: 05/17-09/18
+      company: Herb Chambers Volvo Cars/ Norwood, MA
+      company_logo: 
+      details: |	   					
+          Replace suspensions and front ends
+          Warranty Work
+          Pre-delivery inspections and recalls
+          Tow-In vehicles 
